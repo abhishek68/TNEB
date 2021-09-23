@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TNEB1/static/css/main.0d02efab.chunk.css",
+    "main.js": "/TNEB1/static/js/main.cd48ff18.chunk.js",
+    "main.js.map": "/TNEB1/static/js/main.cd48ff18.chunk.js.map",
+    "runtime-main.js": "/TNEB1/static/js/runtime-main.13d89e83.js",
+    "runtime-main.js.map": "/TNEB1/static/js/runtime-main.13d89e83.js.map",
+    "static/css/2.0975cee1.chunk.css": "/TNEB1/static/css/2.0975cee1.chunk.css",
+    "static/js/2.7575de99.chunk.js": "/TNEB1/static/js/2.7575de99.chunk.js",
+    "static/js/2.7575de99.chunk.js.map": "/TNEB1/static/js/2.7575de99.chunk.js.map",
+    "static/js/3.9ebc4e71.chunk.js": "/TNEB1/static/js/3.9ebc4e71.chunk.js",
+    "static/js/3.9ebc4e71.chunk.js.map": "/TNEB1/static/js/3.9ebc4e71.chunk.js.map",
+    "index.html": "/TNEB1/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/TNEB1/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.0d02efab.chunk.css.map": "/TNEB1/static/css/main.0d02efab.chunk.css.map",
+    "static/js/2.7575de99.chunk.js.LICENSE.txt": "/TNEB1/static/js/2.7575de99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d89e83.js",
+    "static/css/2.0975cee1.chunk.css",
+    "static/js/2.7575de99.chunk.js",
+    "static/css/main.0d02efab.chunk.css",
+    "static/js/main.cd48ff18.chunk.js"
+  ]
+}
